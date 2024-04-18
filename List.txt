@@ -13,5 +13,8 @@ Grace
 Mercy
 Today is April 4th
 It is well
+<<<<<<< HEAD
 Today is April 15th
 Today is April 17, 2024
+=======
+>>>>>>> parent of 17e82f6 (Added today's date)
